@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vyomapatel001
+# 👋 Hey there, I'm Vyoma Patel
 - 👀 I’m interested in exploring mathematics for AI and Data Science utilizing it in real world problems
 - 🌱 I’m currently learning Machine Learning, Statistics, Big Data Analytics
 - 💞️ I’m looking to collaborate and work in Embedded Software & AI communities and open challenges. 
-# 👋 Hey there, I'm [Your Name]  
+  
 
 💡 Curious mind | 💻 Problem Solver | 🚀 Tech Explorer  
 
@@ -23,7 +23,7 @@
   <a href="https://g.dev/vyomapatel001" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vyomap/" target="_blank">
+  <a href="https://www.linkedin.com/in/vyomap" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
